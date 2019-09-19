@@ -1,4 +1,5 @@
 <header class="li-header-4">
+
     <!-- Begin Header Top Area -->
     <div class="header-top">
         <div class="container">
@@ -60,6 +61,7 @@
         </div>
     </div>
     <!-- Header Top Area End Here -->
+
     <!-- Begin Header Middle Area -->
     <div class="header-middle pl-sm-0 pr-sm-0 pl-xs-0 pr-xs-0">
         <div class="container">
@@ -221,6 +223,7 @@
         </div>
     </div>
     <!-- Header Middle Area End Here -->
+
     <!-- Begin Header Bottom Area -->
     <div class="header-bottom header-sticky stick d-none d-lg-block d-xl-block">
         <div class="container">
@@ -358,6 +361,7 @@
         </div>
     </div>
     <!-- Header Bottom Area End Here -->
+
     <!-- Begin Mobile Menu Area -->
     <div class="mobile-menu-area mobile-menu-area-4 d-lg-none d-xl-none col-12">
         <div class="container">
@@ -368,4 +372,5 @@
         </div>
     </div>
     <!-- Mobile Menu Area End Here -->
+
 </header>
