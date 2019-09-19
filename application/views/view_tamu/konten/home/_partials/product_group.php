@@ -15,7 +15,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/1.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/1.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -44,7 +44,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/2.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -73,7 +73,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/3.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/3.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -117,7 +117,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/4.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -146,7 +146,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/5.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/5.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -175,7 +175,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/6.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -219,7 +219,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/6.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -248,7 +248,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/4.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
@@ -277,7 +277,7 @@
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
                                         <a href="product-details.html">
-                                            <img alt="" src="images/featured-product/2.jpg">
+                                            <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">

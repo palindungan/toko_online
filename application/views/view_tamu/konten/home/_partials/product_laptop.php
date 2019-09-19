@@ -20,7 +20,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/1.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/1.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>
@@ -61,7 +61,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/2.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/2.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>
@@ -104,7 +104,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/3.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/3.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>
@@ -145,7 +145,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/4.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/4.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>
@@ -188,7 +188,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/5.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/5.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>
@@ -229,7 +229,7 @@
                             <div class="single-product-wrap">
                                 <div class="product-image">
                                     <a href="single-product.html">
-                                        <img src="images/product/large-size/6.jpg" alt="Li's Product Image">
+                                        <img src="<?= base_url() ?>assets/limupa/images/product/large-size/6.jpg" alt="Li's Product Image">
                                     </a>
                                     <span class="sticker">New</span>
                                 </div>

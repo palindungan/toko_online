@@ -6,6 +6,6 @@ class Home extends CI_Controller
 
     public function index()
     {
-        $this->template->load('template_frontend', 'tampilan_frontend/v_home');
+        $this->template->load('view_tamu/template', 'view_tamu/konten/home/v_home');
     }
 }
