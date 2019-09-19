@@ -110,8 +110,9 @@ a:hover {
 a,
 button,
 input {
+	font-size: 14px;
 	outline: medium none;
-	color: #a5a5a5;
+	color: #ffffff;
 }
 
 button:focus {
@@ -2154,7 +2155,7 @@ textarea:focus {
 	color: #242424;
 }
 
-.hb-menu nav>ul>li:nth-child(n+5)>a::after {
+.hb-menu nav>ul>li:nth-child(n+1)>a::after {
 	content: none;
 }
 
@@ -2303,7 +2304,7 @@ textarea:focus {
 
 .megamenu-static-holder .hb-megamenu,
 .megamenu-holder .hb-megamenu {
-	background-image: url(images/menu/li-bg-menu.jpg);
+
 	background-size: cover;
 	background-position: top;
 	background-repeat: no-repeat;
