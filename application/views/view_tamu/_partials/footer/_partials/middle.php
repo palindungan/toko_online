@@ -8,17 +8,17 @@
                     <div class="footer-logo">
                         <img src="<?= base_url() ?>assets/limupa/images/menu/logo/1.jpg" alt="Footer Logo">
                         <p class="info">
-                            We are a team of designers and developers that create high quality HTML Template & Woocommerce, Shopify Theme.
+                            Kami menerapkan Etika Bisnis dalam mewujudkan visi dan misi kami dan kami yakin Perusahaan kami akan menjadi perusahaan yang maju dan terbuka dengan teknologi.
                         </p>
                     </div>
                     <ul class="des">
                         <li>
-                            <span>Address: </span>
-                            6688Princess Road, London, Greater London BAS 23JK, UK
+                            <span>Alamat: </span>
+                            Jawa Timur , Jember , jln mastrip
                         </li>
                         <li>
-                            <span>Phone: </span>
-                            <a href="#">(+123) 123 321 345</a>
+                            <span>Telephone / WA : </span>
+                            <a href="#">(+628) 123 321 345</a>
                         </li>
                         <li>
                             <span>Email: </span>
@@ -31,12 +31,12 @@
                 <!-- Begin Footer Block Area -->
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="footer-block">
-                        <h3 class="footer-block-title">Product</h3>
+                        <h3 class="footer-block-title">Produk</h3>
                         <ul>
-                            <li><a href="#">Prices drop</a></li>
-                            <li><a href="#">New products</a></li>
-                            <li><a href="#">Best sales</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">Katalog</a></li>
+                            <li><a href="#">Produk Baru</a></li>
+                            <li><a href="#">Penjualan Terbaik</a></li>
+                            <li><a href="#">Kontak Kami</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,12 +45,12 @@
                 <!-- Begin Footer Block Area -->
                 <div class="col-lg-2 col-md-3 col-sm-6">
                     <div class="footer-block">
-                        <h3 class="footer-block-title">Our company</h3>
+                        <h3 class="footer-block-title">Perusahaan Kami</h3>
                         <ul>
-                            <li><a href="#">Delivery</a></li>
-                            <li><a href="#">Legal Notice</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact us</a></li>
+                            <li><a href="#">Pengiriman</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">tentang Kami</a></li>
+                            <li><a href="#">Kontak Kami</a></li>
                         </ul>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                 <!-- Begin Footer Block Area -->
                 <div class="col-lg-4">
                     <div class="footer-block">
-                        <h3 class="footer-block-title">Follow Us</h3>
+                        <h3 class="footer-block-title">Ikuti Kami</h3>
                         <ul class="social-link">
                             <li class="twitter">
                                 <a href="https://twitter.com/" data-toggle="tooltip" target="_blank" title="Twitter">
@@ -96,11 +96,11 @@
                     <!-- Begin Footer Newsletter Area -->
 
                     <div class="footer-newsletter">
-                        <h4>Sign up to newsletter</h4>
+                        <h4>Dapatkan Berita Terbaru Dari Kami</h4>
                         <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="footer-subscribe-form validate" target="_blank" novalidate>
                             <div id="mc_embed_signup_scroll">
                                 <div id="mc-form" class="mc-form subscribe-form form-group">
-                                    <input id="mc-email" type="email" autocomplete="off" placeholder="Enter your email" />
+                                    <input id="mc-email" type="email" autocomplete="off" placeholder="Masukkan Alamat Email Anda" />
                                     <button class="btn" id="mc-submit">Subscribe</button>
                                 </div>
                             </div>

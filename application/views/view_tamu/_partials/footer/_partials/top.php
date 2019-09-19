@@ -12,8 +12,8 @@
                             <img src="<?= base_url() ?>assets/limupa/images/shipping-icon/1.png" alt="Shipping Icon">
                         </div>
                         <div class="shipping-text">
-                            <h2>Free Delivery</h2>
-                            <p>And free returns. See checkout for delivery dates.</p>
+                            <h2>Pengiriman Produk Cepat</h2>
+                            <p>dan telah bekerja sama dengan kurir profesional.</p>
                         </div>
                     </div>
                 </div>
@@ -24,8 +24,8 @@
                             <img src="<?= base_url() ?>assets/limupa/images/shipping-icon/2.png" alt="Shipping Icon">
                         </div>
                         <div class="shipping-text">
-                            <h2>Safe Payment</h2>
-                            <p>Pay with the world's most popular and secure payment methods.</p>
+                            <h2>Sistem Pembayaran</h2>
+                            <p>Sistem pembayaran bisa memalui transfer bank.</p>
                         </div>
                     </div>
                 </div>
@@ -36,8 +36,8 @@
                             <img src="<?= base_url() ?>assets/limupa/images/shipping-icon/3.png" alt="Shipping Icon">
                         </div>
                         <div class="shipping-text">
-                            <h2>Shop with Confidence</h2>
-                            <p>Our Buyer Protection covers your purchasefrom click to delivery.</p>
+                            <h2>Menjaga Data Pelanggan</h2>
+                            <p>Menjamin keamanan data-data pribadi pelanggan.</p>
                         </div>
                     </div>
                 </div>
@@ -48,8 +48,8 @@
                             <img src="<?= base_url() ?>assets/limupa/images/shipping-icon/4.png" alt="Shipping Icon">
                         </div>
                         <div class="shipping-text">
-                            <h2>24/7 Help Center</h2>
-                            <p>Have a question? Call a Specialist or chat online.</p>
+                            <h2>Melayani Dengan Sepenuh Hati</h2>
+                            <p>Selalu menjunjung kode etika bisnis yang baik.</p>
                         </div>
                     </div>
                 </div>
