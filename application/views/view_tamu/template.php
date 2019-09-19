@@ -27,7 +27,7 @@
         <!-- Konten End Here -->
 
         <!-- Begin Footer Area -->
-        <?php $this->load->view("view_tamu/_partials/footer.php") ?>
+        <?php $this->load->view("view_tamu/_partials/footer/v_footer.php") ?>
         <!-- Footer Area End Here -->
 
     </div>
