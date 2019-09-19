@@ -19,7 +19,7 @@
     <div class="body-wrapper">
 
         <!-- Begin Header Area -->
-        <?php $this->load->view("view_tamu/_partials/header.php") ?>
+        <?php $this->load->view("view_tamu/_partials/header/v_header.php") ?>
         <!-- Header Area End Here -->
 
         <!-- Begin Konten area-->
