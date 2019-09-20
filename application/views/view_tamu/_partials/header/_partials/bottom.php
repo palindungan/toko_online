@@ -19,11 +19,11 @@
                             </li>
 
                             <li>
-                                <a href="<?= base_url() ?>tamu/kontak_kami"">Kontak Kami</a>
+                                <a href="<?= base_url() ?>tamu/kontak_kami">Kontak Kami</a>
                             </li>
 
                             <li>
-                                <a href=" #tentang_kami">Tentang Kami</a>
+                                <a href="<?= base_url() ?>tamu/tentang_kami">Tentang Kami</a>
                             </li>
 
                         </ul>
