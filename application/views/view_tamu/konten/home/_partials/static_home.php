@@ -17,7 +17,7 @@
                         <span> Rp 1.5 Jutaan</span>
                     </p>
                     <div class="default-btn">
-                        <a href="shop-left-sidebar.html" class="links">Belanja Sekarang</a>
+                        <a href="#katalog" class="links">Belanja Sekarang</a>
                     </div>
                 </div>
                 <!-- Li's Static Home Content Area End Here -->
