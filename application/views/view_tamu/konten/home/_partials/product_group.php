@@ -6,7 +6,7 @@
                 <div class="featured-product">
                     <div class="li-section-title">
                         <h2>
-                            <span>Chamcham</span>
+                            <span>Kolom Produk 1</span>
                         </h2>
                     </div>
                     <div class="featured-product-active-2 owl-carousel">
@@ -14,14 +14,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/1.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -33,9 +33,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -62,9 +62,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -72,14 +72,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/3.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -91,9 +91,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
                 <div class="featured-product pt-sm-10 pt-xs-25">
                     <div class="li-section-title">
                         <h2>
-                            <span>Meito</span>
+                            <span>Kolom Produk 2</span>
                         </h2>
                     </div>
                     <div class="featured-product-active-2 owl-carousel">
@@ -116,14 +116,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -135,9 +135,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -145,14 +145,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/5.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -164,9 +164,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -174,14 +174,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -193,9 +193,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -210,7 +210,7 @@
                 <div class="featured-product pt-sm-10 pt-xs-25">
                     <div class="li-section-title">
                         <h2>
-                            <span>Sanai</span>
+                            <span>Kolom Produk 3</span>
                         </h2>
                     </div>
                     <div class="featured-product-active-2 owl-carousel">
@@ -218,14 +218,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -237,9 +237,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -247,14 +247,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -266,9 +266,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -276,14 +276,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="product-details.html">
+                                        <a href="#product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="product-details.html">Studio Design</a>
+                                                <a href="#product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -295,9 +295,9 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="single-product.html">Mug Today is a good day</a></h4>
+                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
-                                            <span class="new-price">$71.80</span>
+                                            <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
                                     </div>
                                 </div>

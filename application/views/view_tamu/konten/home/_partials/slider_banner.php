@@ -11,11 +11,11 @@
                         <div class="single-slide align-center-left animation-style-01 bg-1">
                             <div class="slider-progress"></div>
                             <div class="slider-content">
-                                <h5>Sale Offer <span>-20% Off</span> This Week</h5>
-                                <h2>Chamcham Galaxy S9 | S9+</h2>
-                                <h3>Starting at <span>$1209.00</span></h3>
+                                <h5>Diskon <span>Sampai 20%</span> Minggu Ini</h5>
+                                <h2>Galaxy S9 | S9+</h2>
+                                <h3>Harga Mulai <span>Rp 7 Jutaan</span></h3>
                                 <div class="default-btn slide-btn">
-                                    <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
+                                    <a class="links" href="#katalog">Belanja Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -25,11 +25,11 @@
                         <div class="single-slide align-center-left animation-style-02 bg-2">
                             <div class="slider-progress"></div>
                             <div class="slider-content">
-                                <h5>Sale Offer <span>Black Friday</span> This Week</h5>
-                                <h2>Work Desk Surface Studio 2018</h2>
-                                <h3>Starting at <span>$824.00</span></h3>
+                                <h5>Diskon <span>Natal</span> Bulan Ini</h5>
+                                <h2>High Desktop Personal Computer</h2>
+                                <h3>Harga Mulai <span>Rp 10 Jutaan</span></h3>
                                 <div class="default-btn slide-btn">
-                                    <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
+                                    <a class="links" href="#katalog">Belanja Sekarang</a>
                                 </div>
                             </div>
                         </div>
@@ -39,11 +39,11 @@
                         <div class="single-slide align-center-left animation-style-01 bg-3">
                             <div class="slider-progress"></div>
                             <div class="slider-content">
-                                <h5>Sale Offer <span>-10% Off</span> This Week</h5>
+                                <h5>Diskon <span>Sampai 10%</span> Minggu Ini</h5>
                                 <h2>Phantom 4 Pro+ Obsidian</h2>
-                                <h3>Starting at <span>$1849.00</span></h3>
+                                <h3>Harga Mulai <span>Rp 3 Jutaan</span></h3>
                                 <div class="default-btn slide-btn">
-                                    <a class="links" href="shop-left-sidebar.html">Shopping Now</a>
+                                    <a class="links" href="#katalog">Belanja Sekarang</a>
                                 </div>
                             </div>
                         </div>

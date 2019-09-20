@@ -9,15 +9,15 @@
 
                 <!-- Begin Li's Static Home Content Area -->
                 <div class="li-static-home-content">
-                    <p>Sale Offer<span>-20% Off</span>This Week</p>
-                    <h2>Featured Product</h2>
+                    <p>Diskon Sampai<span> 20% </span>Minggu Ini</p>
+                    <h2>Produk Unggulan</h2>
                     <h2>Sanai Accessories 2018</h2>
                     <p class="schedule">
-                        Starting at
-                        <span> $1209.00</span>
+                        Harga Mulai
+                        <span> Rp 1.5 Jutaan</span>
                     </p>
                     <div class="default-btn">
-                        <a href="shop-left-sidebar.html" class="links">Shopping Now</a>
+                        <a href="shop-left-sidebar.html" class="links">Belanja Sekarang</a>
                     </div>
                 </div>
                 <!-- Li's Static Home Content Area End Here -->

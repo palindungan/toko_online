@@ -17,12 +17,10 @@
                             Jawa Timur , Jember , jln mastrip
                         </li>
                         <li>
-                            <span>Telephone / WA : </span>
-                            <a href="#">(+628) 123 321 345</a>
+                            <span>Telephone / WA : (+628) 123 321 345</span>
                         </li>
                         <li>
-                            <span>Email: </span>
-                            <a href="mailto://info@yourdomain.com">info@yourdomain.com</a>
+                            <span>Email: info@yourdomain.com</span>
                         </li>
                     </ul>
                 </div>

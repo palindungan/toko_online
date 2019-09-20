@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="static-top-content mt-sm-30">
-                    Gift Special: Gift every single day on Weekends - New Coupon code "
-                    <span>LimupaSaleoff</span>
+                    Tawaran Spesial: Dapatkan Harga Terbaik Setiap Harinya - Di Setiap Event "
+                    <span>Diskon Mingguan</span>
                 </div>
             </div>
         </div>
