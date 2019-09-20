@@ -5,7 +5,15 @@
             <div class="col-lg-3 col-md-4">
                 <div class="header-top-left">
                     <ul class="phone-wrap">
-                        <li><span>Telephone / WA:</span><a href="#">(+628) 509 321 345</a></li>
+
+                        <!-- Begin Login Area -->
+                        <li>
+                            <span> <a href="#Login">LOGIN</a></span>
+                            &nbsp; <span>|</span> &nbsp;
+                            <span> <a href="#Daftar">DAFTAR</a></span>
+                        </li>
+                        <!-- Login Area End Here -->
+
                     </ul>
                 </div>
             </div>
@@ -15,17 +23,7 @@
                 <div class="header-top-right">
                     <ul class="ht-menu">
 
-                        <!-- Begin Login Area -->
-                        <li>
-                            <span> <a href="#Login">Login</a></span>
-                        </li>
-                        <!-- Login Area End Here -->
-
-                        <!-- Begin Daftar Area -->
-                        <li>
-                            <span> <a href="#Daftar">Daftar</a></span>
-                        </li>
-                        <!-- Daftar Area End Here -->
+                        <li><span>Telephone / WA: (+628) 509 321 345</span></li>
 
                     </ul>
                 </div>

@@ -8,9 +8,9 @@
                         <span>TV & Audio</span>
                     </h2>
                     <ul class="li-sub-category-list">
-                        <li class="active"><a href="shop-left-sidebar.html">Chamcham</a></li>
-                        <li><a href="shop-left-sidebar.html">Meito</a></li>
-                        <li><a href="shop-left-sidebar.html">XailStation</a></li>
+                        <li class="active"><a href="kategori">Chamcham</a></li>
+                        <li><a href="kategori">Meito</a></li>
+                        <li><a href="kategori">XailStation</a></li>
                     </ul>
                 </div>
                 <div class="row">

@@ -8,9 +8,9 @@
                         <span>Laptop</span>
                     </h2>
                     <ul class="li-sub-category-list">
-                        <li class="active"><a href="shop-left-sidebar.html">Prime Video</a></li>
-                        <li><a href="shop-left-sidebar.html">Computers</a></li>
-                        <li><a href="shop-left-sidebar.html">Electronics</a></li>
+                        <li class="active"><a href="#kategori">Prime Video</a></li>
+                        <li><a href="#kategori">Computers</a></li>
+                        <li><a href="#kategori">Electronics</a></li>
                     </ul>
                 </div>
                 <div class="row">
