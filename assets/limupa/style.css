@@ -110,9 +110,8 @@ a:hover {
 a,
 button,
 input {
-	font-size: 14px;
 	outline: medium none;
-	color: #ffffff;
+	color: #a5a5a5;
 }
 
 button:focus {
@@ -2304,7 +2303,6 @@ textarea:focus {
 
 .megamenu-static-holder .hb-megamenu,
 .megamenu-holder .hb-megamenu {
-
 	background-size: cover;
 	background-position: top;
 	background-repeat: no-repeat;
