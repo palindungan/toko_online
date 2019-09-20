@@ -44,8 +44,8 @@
                     <div class="col-lg-7 col-md-6 col-sm-6">
                         <div class="product-details-view-content pt-60">
                             <div class="product-info">
-                                <h2>Today is a good day Framed poster</h2>
-                                <span class="product-details-ref">Reference: demo_15</span>
+                                <h2>Nama Produk Kami</h2>
+                                <span class="product-details-ref">kategori</span>
                                 <div class="rating-box pt-20">
                                     <ul class="rating rating-with-review-item">
                                         <li><i class="fa fa-star-o"></i></li>
@@ -53,28 +53,16 @@
                                         <li><i class="fa fa-star-o"></i></li>
                                         <li class="no-star"><i class="fa fa-star-o"></i></li>
                                         <li class="no-star"><i class="fa fa-star-o"></i></li>
-                                        <li class="review-item"><a href="#">Read Review</a></li>
-                                        <li class="review-item"><a href="#">Write Review</a></li>
                                     </ul>
                                 </div>
                                 <div class="price-box pt-20">
-                                    <span class="new-price new-price-2">$57.98</span>
+                                    <span class="new-price new-price-2">Rp 1.000.000,00</span>
                                 </div>
                                 <div class="product-desc">
                                     <p>
-                                        <span>100% cotton double printed dress. Black and white striped top and orange high waisted skater skirt bottom. Lorem ipsum dolor sit amet, consectetur adipisicing elit. quibusdam corporis, earum facilis et nostrum dolorum accusamus similique eveniet quia pariatur.
+                                        <span>ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang. Ini adalah deskripsi barang.
                                         </span>
                                     </p>
-                                </div>
-                                <div class="product-variants">
-                                    <div class="produt-variants-size">
-                                        <label>Dimension</label>
-                                        <select class="nice-select">
-                                            <option value="1" title="S" selected="selected">40x60cm</option>
-                                            <option value="2" title="M">60x90cm</option>
-                                            <option value="3" title="L">80x120cm</option>
-                                        </select>
-                                    </div>
                                 </div>
                                 <div class="single-add-to-cart">
                                     <form action="#" class="cart-quantity">
@@ -86,11 +74,11 @@
                                                 <div class="inc qtybutton"><i class="fa fa-angle-up"></i></div>
                                             </div>
                                         </div>
-                                        <button class="add-to-cart" type="submit">Add to cart</button>
+                                        <button class="add-to-cart" type="submit">Beli Barang</button>
                                     </form>
                                 </div>
                                 <div class="product-additional-info pt-25">
-                                    <a class="wishlist-btn" href="wishlist.html"><i class="fa fa-heart-o"></i>Add to wishlist</a>
+                                    <a class="wishlist-btn" href="wishlist.html"><i class="fa fa-heart-o"></i>Tandai Suka</a>
                                     <div class="product-social-sharing pt-25">
                                         <ul>
                                             <li class="facebook"><a href="#"><i class="fa fa-facebook"></i>Facebook</a></li>

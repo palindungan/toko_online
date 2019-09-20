@@ -8,7 +8,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/1.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -17,7 +17,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -29,7 +29,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -51,7 +51,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/2.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -60,7 +60,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -72,7 +72,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -94,7 +94,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/3.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -103,7 +103,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -115,7 +115,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -137,7 +137,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/4.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -146,7 +146,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -158,7 +158,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -180,7 +180,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/5.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -189,7 +189,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -201,7 +201,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -223,7 +223,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/6.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -232,7 +232,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -244,7 +244,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -266,7 +266,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/7.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -275,7 +275,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -287,7 +287,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -309,7 +309,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/8.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -318,7 +318,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -330,7 +330,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -352,7 +352,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/9.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -361,7 +361,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -373,7 +373,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -395,7 +395,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/10.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -404,7 +404,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -416,7 +416,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -438,7 +438,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/11.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -447,7 +447,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -459,7 +459,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
@@ -481,7 +481,7 @@
                         <!-- single-product-wrap start -->
                         <div class="single-product-wrap">
                             <div class="product-image">
-                                <a href="#detail_produk">
+                                <a href="<?= base_url() ?>tamu/product_detail">
                                     <img src="<?= base_url() ?>assets/limupa/images/product/large-size/12.jpg" alt="Li's Product Image">
                                 </a>
                                 <span class="sticker">Baru</span>
@@ -490,7 +490,7 @@
                                 <div class="product_desc_info">
                                     <div class="product-review">
                                         <h5 class="manufacturer">
-                                            <a href="#detail_produk2">Graphic Corner</a>
+                                            <a href="#sek">Graphic Corner</a>
                                         </h5>
                                         <div class="rating-box">
                                             <ul class="rating">
@@ -502,7 +502,7 @@
                                             </ul>
                                         </div>
                                     </div>
-                                    <h4><a class="product_name" href="#detail_produk">Nama Produk Kami</a></h4>
+                                    <h4><a class="product_name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                     <div class="price-box">
                                         <span class="new-price">Rp 1.000.000,00</span>
                                     </div>
