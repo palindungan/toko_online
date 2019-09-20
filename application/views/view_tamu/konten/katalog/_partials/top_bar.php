@@ -12,22 +12,21 @@
             <!-- shop-item-filter-list end -->
         </div>
         <div class="toolbar-amount">
-            <span>Showing 1 to 9 of 15</span>
+            <span>Dilihatkan 1 sampai 9 dari 15</span>
         </div>
     </div>
 
     <!-- product-select-box start -->
     <div class="product-select-box">
         <div class="product-short">
-            <p>Sort By:</p>
+            <p>Diurutkan Dengan:</p>
             <select class="nice-select">
-                <option value="trending">Relevance</option>
-                <option value="sales">Name (A - Z)</option>
-                <option value="sales">Name (Z - A)</option>
-                <option value="rating">Price (Low &gt; High)</option>
-                <option value="date">Rating (Lowest)</option>
-                <option value="price-asc">Model (A - Z)</option>
-                <option value="price-asc">Model (Z - A)</option>
+                <option value="trending">Relevan</option>
+                <option value="sales">Nama (A - Z)</option>
+                <option value="sales">Nama (Z - A)</option>
+                <option value="rating">Harga (Rendah &gt; Tinggi)</option>
+                <option value="date">Rating (Terendah)</option>
+                <option value="date">Rating (Tertinggi)</option>
             </select>
         </div>
     </div>

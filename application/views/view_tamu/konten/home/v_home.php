@@ -31,5 +31,5 @@
 <!-- Group Featured Product Area End Here -->
 
 <!-- Begin Quick View | Modal Area -->
-<?php $this->load->view("view_tamu/konten/home/_partials/quick_view.php") ?>
+<?php $this->load->view("view_tamu/_partials/quick_view.php") ?>
 <!-- Quick View | Modal Area End Here -->
