@@ -7,11 +7,11 @@
                     <nav>
                         <ul>
                             <li class="dropdown-holder">
-                                <a href="#home">Home</a>
+                                <a href="<?= base_url() ?>tamu/home">Home</a>
                             </li>
 
                             <li class="megamenu-holder">
-                                <a href="#katalog">Katalog</a>
+                                <a href="<?= base_url() ?>tamu/katalog">Katalog</a>
                             </li>
 
                             <li>
