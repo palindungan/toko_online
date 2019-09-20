@@ -1,41 +1,46 @@
 <!--sidebar-categores-box start  -->
 <div class="sidebar-categores-box mt-sm-30 mt-xs-30">
     <div class="sidebar-title">
-        <h2>Laptop</h2>
+        <h2>Kategori</h2>
     </div>
 
     <!-- category-sub-menu start -->
     <div class="category-sub-menu">
         <ul>
-            <li class="has-sub"><a href="# ">Prime Video</a>
+            <li class="has-sub"><a href="# ">Kategori</a>
                 <ul>
-                    <li><a href="#">All Videos</a></li>
-                    <li><a href="#">Blouses</a></li>
-                    <li><a href="#">Evening Dresses</a></li>
-                    <li><a href="#">Summer Dresses</a></li>
-                    <li><a href="#">T-Rent or Buy</a></li>
-                    <li><a href="#">Your Watchlist</a></li>
-                    <li><a href="#">Watch Anywhere</a></li>
-                    <li><a href="#">Getting Started</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
                 </ul>
             </li>
-            <li class="has-sub"><a href="#">Computer</a>
+            <li class="has-sub"><a href="#">Kategori</a>
                 <ul>
-                    <li><a href="#">TV & Video</a></li>
-                    <li><a href="#">Audio & Theater</a></li>
-                    <li><a href="#">Camera, Photo</a></li>
-                    <li><a href="#">Cell Phones</a></li>
-                    <li><a href="#">Headphones</a></li>
-                    <li><a href="#">Video Games</a></li>
-                    <li><a href="#">Wireless Speakers</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
                 </ul>
             </li>
-            <li class="has-sub"><a href="#">Electronics</a>
+            <li class="has-sub"><a href="#">Kategori</a>
                 <ul>
-                    <li><a href="#">Amazon Home</a></li>
-                    <li><a href="#">Kitchen & Dining</a></li>
-                    <li><a href="#">Bed & Bath</a></li>
-                    <li><a href="#">Appliances</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
+                    <li><a href="#">Sub Kategori</a></li>
                 </ul>
             </li>
         </ul>
@@ -133,21 +138,3 @@
 
 </div>
 <!--sidebar-categores-box end  -->
-
-<!-- category-sub-menu start -->
-<div class="sidebar-categores-box mb-sm-0">
-    <div class="sidebar-title">
-        <h2>Laptop</h2>
-    </div>
-    <div class="category-tags">
-        <ul>
-            <li><a href="# ">Devita</a></li>
-            <li><a href="# ">Cameras</a></li>
-            <li><a href="# ">Sony</a></li>
-            <li><a href="# ">Computer</a></li>
-            <li><a href="# ">Big Sale</a></li>
-            <li><a href="# ">Accessories</a></li>
-        </ul>
-    </div>
-</div>
-<!-- category-sub-menu end -->
