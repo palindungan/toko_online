@@ -15,7 +15,7 @@
                             </li>
 
                             <li>
-                                <a href="#blog">Blog </a>
+                                <a href="<?= base_url() ?>tamu/blog">Blog </a>
                             </li>
 
                             <li>
