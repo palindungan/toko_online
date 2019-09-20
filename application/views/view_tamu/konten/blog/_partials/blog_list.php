@@ -5,7 +5,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog image post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
@@ -32,7 +32,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog gallery post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
@@ -51,7 +51,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog audio post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
@@ -70,7 +70,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog video post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
@@ -89,7 +89,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog fifth post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
@@ -108,7 +108,7 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">blog second post</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
