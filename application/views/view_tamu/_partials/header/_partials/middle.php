@@ -86,7 +86,7 @@
                                 </ul>
                                 <p class="minicart-total">SUBTOTAL: <span>Rp 5.000.000,00</span></p>
                                 <div class="minicart-button">
-                                    <a href="<?= base_url() ?>tamu/keranjang_detail" class="li-button li-button-dark li-button-fullwidth li-button-sm">
+                                    <a href="<?= base_url() ?>tamu/keranjang" class="li-button li-button-dark li-button-fullwidth li-button-sm">
                                         <span>Lihat Detail</span>
                                     </a>
                                     <a href="<?= base_url() ?>tamu/checkout" class="li-button li-button-fullwidth li-button-sm">
