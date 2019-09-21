@@ -8,9 +8,8 @@
 
                         <!-- Begin Login Area -->
                         <li>
-                            <span> <a href="#Login">LOGIN</a></span>
-                            &nbsp; <span>|</span> &nbsp;
-                            <span> <a href="#Daftar">DAFTAR</a></span>
+                            <span> <a href="<?= base_url() ?>tamu/login_register">LOGIN / DAFTAR</a></span>
+
                         </li>
                         <!-- Login Area End Here -->
 
