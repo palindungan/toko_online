@@ -1,18 +1,18 @@
 <div class="col-lg-6 col-md-6">
     <div class="li-blog-single-item pb-25">
         <div class="li-blog-banner">
-            <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/2.jpg" alt=""></a>
+            <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/2.jpg" alt=""></a>
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
@@ -21,25 +21,25 @@
     <div class="li-blog-single-item pb-25">
         <div class="li-blog-gallery-slider slick-dot-style">
             <div class="li-blog-banner">
-                <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/1.jpg" alt=""></a>
+                <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/1.jpg" alt=""></a>
             </div>
             <div class="li-blog-banner">
-                <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/2.jpg" alt=""></a>
+                <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/2.jpg" alt=""></a>
             </div>
             <div class="li-blog-banner">
-                <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/3.jpg" alt=""></a>
+                <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/3.jpg" alt=""></a>
             </div>
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
@@ -51,14 +51,14 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
@@ -70,14 +70,14 @@
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
@@ -85,18 +85,18 @@
 <div class="col-lg-6 col-md-6">
     <div class="li-blog-single-item pb-25">
         <div class="li-blog-banner">
-            <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/5.jpg" alt=""></a>
+            <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/5.jpg" alt=""></a>
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
@@ -104,18 +104,18 @@
 <div class="col-lg-6 col-md-6">
     <div class="li-blog-single-item pb-35">
         <div class="li-blog-banner">
-            <a href="#blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/6.jpg" alt=""></a>
+            <a href="<?= base_url() ?>tamu/blog_detail"><img class="img-full" src="<?= base_url() ?>assets/limupa/images/blog-banner/6.jpg" alt=""></a>
         </div>
         <div class="li-blog-content">
             <div class="li-blog-details">
-                <h3 class="li-blog-heading pt-25"><a href="#blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
+                <h3 class="li-blog-heading pt-25"><a href="<?= base_url() ?>tamu/blog_detail">Pemberitahuan Kami Kepada Pelanggan Dan Mitra</a></h3>
                 <div class="li-blog-meta">
                     <a class="author" href="#"><i class="fa fa-user"></i>Admin</a>
                     <a class="comment" href="#"><i class="fa fa-comment-o"></i> 3 comment</a>
                     <a class="post-time" href="#"><i class="fa fa-calendar"></i> 25 nov 2018</a>
                 </div>
                 <p>Donec vitae hendrerit arcu, sit amet faucibus nisl. Cras pretium arcu ex. Aenean posuere libero eu augue condimentum rhoncus. Cras pretium arcu ex.</p>
-                <a class="read-more" href="#blog_detail">Read More...</a>
+                <a class="read-more" href="<?= base_url() ?>tamu/blog_detail">Read More...</a>
             </div>
         </div>
     </div>
