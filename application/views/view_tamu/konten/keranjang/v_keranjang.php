@@ -1,5 +1,5 @@
  <!-- Begin Li's Breadcrumb Area -->
- <?php $this->load->view("view_tamu/konten/keranjang_detail/_partials/breadcrumb.php") ?>
+ <?php $this->load->view("view_tamu/konten/keranjang/_partials/breadcrumb.php") ?>
  <!-- Li's Breadcrumb Area End Here -->
 
  <!--Shopping Cart Area Strat-->
@@ -72,7 +72,7 @@
                                      <li>Subtotal <span>Rp 2.500.000,00</span></li>
                                      <li>Total <span>Rp 2.500.000,00</span></li>
                                  </ul>
-                                 <a href="#">Proses Checkout</a>
+                                 <a href="<?= base_url() ?>tamu/checkout">Proses Checkout</a>
                              </div>
                          </div>
                      </div>

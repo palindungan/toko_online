@@ -78,7 +78,7 @@
                 <div class="col-md-12">
                     <div class="checkout-form-list create-acc">
                         <input id="cbox" type="checkbox">
-                        <label>Create an account?</label>
+                        <label>Membuat Akun Baru ?</label>
                     </div>
                     <div id="cbox-info" class="checkout-form-list create-account">
                         <p>Create an account by entering the information below. If you are a returning customer please login at the top of the page.</p>
@@ -90,7 +90,7 @@
             <div class="different-address">
                 <div class="ship-different-title">
                     <h3>
-                        <label>Ship to a different address?</label>
+                        <label>Dikirim Ke Alamat Lain ?</label>
                         <input id="ship-box" type="checkbox">
                     </h3>
                 </div>

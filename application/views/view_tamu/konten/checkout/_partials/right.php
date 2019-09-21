@@ -38,7 +38,7 @@
                         <div class="card-header" id="#payment-1">
                             <h5 class="panel-title">
                                 <a class="" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    Direct Bank Transfer.
+                                    Transfer Langsung ke Bank.
                                 </a>
                             </h5>
                         </div>
@@ -52,7 +52,7 @@
                         <div class="card-header" id="#payment-2">
                             <h5 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    Cheque Payment
+                                    Jalur Pembayaran 2
                                 </a>
                             </h5>
                         </div>
@@ -66,7 +66,7 @@
                         <div class="card-header" id="#payment-3">
                             <h5 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    PayPal
+                                    Jalur Pembayaran 3
                                 </a>
                             </h5>
                         </div>
@@ -78,7 +78,7 @@
                     </div>
                 </div>
                 <div class="order-button-payment">
-                    <input value="Place order" type="submit">
+                    <input value="Kirim Pesanan" type="submit">
                 </div>
             </div>
         </div>
