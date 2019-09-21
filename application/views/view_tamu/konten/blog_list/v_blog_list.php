@@ -1,5 +1,5 @@
 <!-- Begin Li's Breadcrumb Area -->
-<?php $this->load->view("view_tamu/konten/blog/_partials/breadcrumb.php") ?>
+<?php $this->load->view("view_tamu/konten/blog_list/_partials/breadcrumb.php") ?>
 <!-- Li's Breadcrumb Area End Here -->
 
 <!-- Begin Li's Main Blog Page Area -->
@@ -8,7 +8,7 @@
         <div class="row">
 
             <!-- Begin Li's Blog Sidebar Area -->
-            <?php $this->load->view("view_tamu/konten/blog/_partials/sidebar.php") ?>
+            <?php $this->load->view("view_tamu/konten/blog_list/_partials/sidebar.php") ?>
             <!-- Li's Blog Sidebar Area End Here -->
 
             <!-- Begin Li's Main Content Area -->
@@ -16,11 +16,11 @@
                 <div class="row li-main-content">
 
                     <!-- blog list Start Area -->
-                    <?php $this->load->view("view_tamu/konten/blog/_partials/blog_list.php") ?>
+                    <?php $this->load->view("view_tamu/konten/blog_list/_partials/list.php") ?>
                     <!-- blog list End Here -->
 
                     <!-- Begin Li's Pagination Area -->
-                    <?php $this->load->view("view_tamu/konten/blog/_partials/pagination.php") ?>
+                    <?php $this->load->view("view_tamu/konten/blog_list/_partials/pagination.php") ?>
                     <!-- Li's Pagination End Here Area -->
 
                 </div>
