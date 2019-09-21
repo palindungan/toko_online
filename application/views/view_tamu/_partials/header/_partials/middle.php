@@ -89,7 +89,7 @@
                                     <a href="<?= base_url() ?>tamu/keranjang_detail" class="li-button li-button-dark li-button-fullwidth li-button-sm">
                                         <span>Lihat Detail</span>
                                     </a>
-                                    <a href="#checkout" class="li-button li-button-fullwidth li-button-sm">
+                                    <a href="<?= base_url() ?>tamu/checkout" class="li-button li-button-fullwidth li-button-sm">
                                         <span>Checkout</span>
                                     </a>
                                 </div>

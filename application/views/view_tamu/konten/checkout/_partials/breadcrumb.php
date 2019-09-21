@@ -3,7 +3,7 @@
         <div class="breadcrumb-content">
             <ul>
                 <li><a href="#menu_home">Home</a></li>
-                <li class="active">Keranjang</li>
+                <li class="active">Katalog</li>
             </ul>
         </div>
     </div>
