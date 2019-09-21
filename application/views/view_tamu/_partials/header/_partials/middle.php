@@ -60,11 +60,11 @@
                             <div class="minicart">
                                 <ul class="minicart-product-list">
                                     <li>
-                                        <a href="#detail_product" class="minicart-product-image">
+                                        <a href="<?= base_url() ?>tamu/product_detail" class="minicart-product-image">
                                             <img src="<?= base_url() ?>assets/limupa/images/product/small-size/1.jpg" alt="cart products">
                                         </a>
                                         <div class="minicart-product-details">
-                                            <h6><a href="#detail_product">Monitor 1</a></h6>
+                                            <h6><a href="<?= base_url() ?>tamu/product_detail">Monitor 1</a></h6>
                                             <span>Rp 7.000.000,00 x 1</span>
                                         </div>
                                         <button class="close">
@@ -72,11 +72,11 @@
                                         </button>
                                     </li>
                                     <li>
-                                        <a href="#detail_product" class="minicart-product-image">
+                                        <a href="<?= base_url() ?>tamu/product_detail" class="minicart-product-image">
                                             <img src="<?= base_url() ?>assets/limupa/images/product/small-size/2.jpg" alt="cart products">
                                         </a>
                                         <div class="minicart-product-details">
-                                            <h6><a href="#detail_product">Salon Portabel 1</a></h6>
+                                            <h6><a href="<?= base_url() ?>tamu/product_detail">Salon Portabel 1</a></h6>
                                             <span>Rp 3.000.000,00 x 1</span>
                                         </div>
                                         <button class="close">

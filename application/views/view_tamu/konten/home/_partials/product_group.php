@@ -14,14 +14,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/1.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -33,7 +33,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -43,14 +43,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -62,7 +62,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -72,14 +72,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/3.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -91,7 +91,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -116,14 +116,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -135,7 +135,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -145,14 +145,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/5.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -164,7 +164,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -174,14 +174,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -193,7 +193,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -218,14 +218,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/6.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -237,7 +237,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -247,14 +247,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/4.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -266,7 +266,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
@@ -276,14 +276,14 @@
                             <div class="row">
                                 <div class="group-featured-pro-wrapper">
                                     <div class="product-img">
-                                        <a href="#product_detail">
+                                        <a href="<?= base_url() ?>tamu/product_detail">
                                             <img alt="" src="<?= base_url() ?>assets/limupa/images/featured-product/2.jpg">
                                         </a>
                                     </div>
                                     <div class="featured-pro-content">
                                         <div class="product-review">
                                             <h5 class="manufacturer">
-                                                <a href="#product_detail">Studio Design</a>
+                                                <a href="<?= base_url() ?>tamu/product_detail">Studio Design</a>
                                             </h5>
                                         </div>
                                         <div class="rating-box">
@@ -295,7 +295,7 @@
                                                 <li class="no-star"><i class="fa fa-star-o"></i></li>
                                             </ul>
                                         </div>
-                                        <h4><a class="featured-product-name" href="#product_detail">Nama Produk Kami</a></h4>
+                                        <h4><a class="featured-product-name" href="<?= base_url() ?>tamu/product_detail">Nama Produk Kami</a></h4>
                                         <div class="featured-price-box">
                                             <span class="new-price">Rp 2.800.000,00</span>
                                         </div>
